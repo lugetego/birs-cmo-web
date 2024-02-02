@@ -417,8 +417,6 @@ body, html {
 
     .hero-image {
         min-height: 700px;
-
-
     }
 
     .hero-l {
@@ -445,7 +443,6 @@ body, html {
 
     .hero-text {
         margin-left: 6rem!important;
-
     }
 
     .hero-l {
@@ -480,7 +477,6 @@ body, html {
         line-height: 22px;
         /* identical to box height */
         color: #969696;
-
     }
 
     .hero-r {
