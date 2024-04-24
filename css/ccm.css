@@ -210,6 +210,10 @@ body, html {
     max-width: 720px;
 }
 
+.jinvariant {
+    font-size: 15px;
+}
+
 .timeline-section {
     background-color: #F0F0F0;
     padding: 48px 24px;
